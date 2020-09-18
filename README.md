@@ -14,11 +14,15 @@ Y4 | V | R  |
 Y3 | VR | R |
 Y4 | VR | R |
 
-
+## TODO / Work In Progress
+- scientific article publication.
+- hardware (NVidia Jetson Nano) & software (video streaming platform) integration on a real construction site from Romania.
 
 
 ## Referernces
-- VW-PPE dataset: http://aimir.isti.cnr.it/vw-ppe
-- Colored helmetes dataset: https://github.com/wujixiu/helmet-detection
-- Darknet (training only): https://github.com/AlexeyAB/darknet
-- Tensorflow implementation: https://github.com/hunglc007/tensorflow-yolov4-tflite
+- VW-PPE dataset + paper: http://aimir.isti.cnr.it/vw-ppe
+- Colored helmets dataset: https://github.com/wujixiu/helmet-detection
+- Darknet repository (training only): https://github.com/AlexeyAB/darknet
+- Tensorflow implementation (testing): https://github.com/hunglc007/tensorflow-yolov4-tflite
+- DeepSort implementation: https://github.com/nwojke/deep_sort
+- Face recognition model: https://github.com/ageitgey/face_recognition
