@@ -7,11 +7,13 @@ Support system dedicated to monitoring the safety of workers on a construction s
 - face recognition
 
 
-## PPE detection results
+## PPE detection
 
 ![Normal Detection - High Scores](https://github.com/cosminacho/Helmet.AI/blob/master/images/image1.png)
 ![Overlapped Objects](https://github.com/cosminacho/Helmet.AI/blob/master/images/image2.png)
 ![Weird Results](https://github.com/cosminacho/Helmet.AI/blob/master/images/image3.png)
+
+More image and video results here
 
 ## Summary of the (numerical) results
 
