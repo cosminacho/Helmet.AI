@@ -33,6 +33,8 @@ Y4M | VR | R | 79.4% | 83.9% | 75.6% | 91.9% | 82.9% | 85.2% | 87.1% | 83.7%
 - Y3A - the YOLOv3 model of the authors; Y4M - my YOLOv4 model.
 - "the authors" are the ones who created the virtual dataset in the game GTA-V.
 
+## Weights: [here](https://drive.google.com/drive/folders/1g_0nnMd6LdpWCTJqXl3uDUBXgWrUdLlB?usp=sharing)
+
 ## Datasets: [here](https://drive.google.com/drive/folders/1jE9HQJ2Zd7xK5N3gyoleTdzdzQ5n3XcQ?usp=sharing)
 
 
