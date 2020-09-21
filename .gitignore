@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+src/data/datasets/
+src/data/test/
+src/data/faces/
+src/weights/
