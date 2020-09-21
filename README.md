@@ -13,7 +13,7 @@ Support system dedicated to monitoring the safety of workers on a construction s
 ![Overlapped Objects](https://github.com/cosminacho/Helmet.AI/blob/master/images/image2.png)
 ![Weird Results](https://github.com/cosminacho/Helmet.AI/blob/master/images/image3.png)
 
-More image and video results here
+More image and video results [here](https://drive.google.com/drive/folders/12nFQN60InowsPQm1O2cIBApnOicgxeLK?usp=sharing)
 
 ## Summary of the (numerical) results
 
